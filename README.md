@@ -1,3 +1,5 @@
+You can download the expo go app on your phone, and scan this QR code to try it on your own phone!
+
 ![Screenshot](src/images/FocusTime_Expo.png)
 
 ## Focus Time
