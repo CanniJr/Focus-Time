@@ -1,3 +1,5 @@
+![Screenshot](FocusTime_expo.png)
+
 ## Focus Time
     This app allows you to focus on a certain task by writing down your task, and setting up a timer for that task.
 
