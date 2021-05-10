@@ -3,7 +3,7 @@
 ## Focus Time
     This app allows you to focus on a certain task by writing down your task, and setting up a timer for that task.
 
-    Created using expo snacks\
+    Created using React-Native expo snacks app
 
 # Plans
     Planning to add customizable timer count instead of the '10', '15', '20' which are the only available counts for the timer. 
